@@ -1,0 +1,17 @@
+hash-format = "sha256"
+
+[[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
+file = "unsup.ini"
+hash = "562c230c7fa8e4f8237e1462e0d0179e096428ea5104dd19a0f5d20ff64a1001"
+
+[[files]]
+file = "unsup.jar"
+hash = "0c1331899c1f51488ba9760e303f04533e07b9b0192048c03e6937d93d0d62d0"
